@@ -1,7 +1,7 @@
 # Species_recognition
 # Bycatch Species Classifier
 
-This repository contains tools, model.pt and notebooks for preprocessing image datasets, organizing data splits, and analyzing species classification results from French fisheries observer data in purse seine and longliners.
+This repository contains tools, model.pt, and notebooks for preprocessing image datasets published on ZENODO, organizing data splits, and analyzing species classification results from French fisheries observer data in purse seine and longliners.
 
 
 This project focuses on:
